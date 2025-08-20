@@ -1,4 +1,6 @@
-🏥 Hospital Database Management System (DBMS)
+🏥 Hospital Database Management System
+
+
 📌 Introduction
 
 Hospitals and healthcare facilities generate and manage a vast amount of data — from patient records and staff details to prescriptions and registrations. Managing this data manually is prone to inefficiencies, errors, and delays, especially in critical care scenarios.
