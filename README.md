@@ -7,17 +7,6 @@ Hospitals and healthcare facilities generate and manage a vast amount of data �
 
 The Hospital Database Management System (DBMS) is designed to streamline these processes by providing a structured and secure way to store, retrieve, and manage healthcare data. This system improves operational workflows, enhances decision-making, and ultimately contributes to better patient care.
 
-🎯 Problem Statement
-
-Traditional methods of managing hospital data face challenges such as:
-
-Inefficiency in retrieving and updating records
-
-Risk of errors and data loss
-
-Difficulty in managing relationships between different types of data
-
-A robust DBMS is essential to ensure accuracy, security, and accessibility of hospital data across departments.
 
 🎯 Objectives
 
